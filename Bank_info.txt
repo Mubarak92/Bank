@@ -1,0 +1,3 @@
+Name: Some_bank
+Location: Riyadh
+Founded: 1998
